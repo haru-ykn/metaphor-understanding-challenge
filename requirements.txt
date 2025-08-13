@@ -1,0 +1,13 @@
+# MUNCH SFT Data Generator
+# このプロジェクトは標準ライブラリのみを使用するため、追加の依存関係はありません
+
+# 必要なPythonバージョン
+# Python 3.7以上を推奨
+
+# 標準ライブラリ（追加インストール不要）
+# - json
+# - csv
+# - random
+# - typing
+# - re
+# - os
